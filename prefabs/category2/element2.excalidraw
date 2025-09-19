@@ -1,0 +1,98 @@
+[
+    {
+        "id": "OI9QDCUW7GnFHC7lVdzDT",
+        "type": "diamond",
+        "x": -681.0010122218866,
+        "y": -75.6876171343444,
+        "width": 610.6184202123218,
+        "height": 332.5778705436753,
+        "angle": 0,
+        "strokeColor": "#1e1e1e",
+        "backgroundColor": "transparent",
+        "fillStyle": "solid",
+        "strokeWidth": 2,
+        "strokeStyle": "solid",
+        "roughness": 1,
+        "opacity": 100,
+        "groupIds": [
+            "AZ4_bux7mNJ9lBE_mddwM"
+        ],
+        "frameId": null,
+        "index": "a8",
+        "roundness": {
+            "type": 2
+        },
+        "seed": 1257584606,
+        "version": 40,
+        "versionNonce": 333499358,
+        "isDeleted": false,
+        "boundElements": null,
+        "updated": 1758242342007,
+        "link": null,
+        "locked": false
+    },
+    {
+        "id": "1LCn1zrb6Lc6vTszl2xh2",
+        "type": "rectangle",
+        "x": -465.92209161410216,
+        "y": -5.568204580735824,
+        "width": 189.9403244268246,
+        "height": 193.78787292627692,
+        "angle": 0,
+        "strokeColor": "#1e1e1e",
+        "backgroundColor": "transparent",
+        "fillStyle": "solid",
+        "strokeWidth": 2,
+        "strokeStyle": "solid",
+        "roughness": 1,
+        "opacity": 100,
+        "groupIds": [
+            "AZ4_bux7mNJ9lBE_mddwM"
+        ],
+        "frameId": null,
+        "index": "a9",
+        "roundness": {
+            "type": 3
+        },
+        "seed": 2050934274,
+        "version": 53,
+        "versionNonce": 810084610,
+        "isDeleted": false,
+        "boundElements": null,
+        "updated": 1758242342007,
+        "link": null,
+        "locked": false
+    },
+    {
+        "id": "nTc-E4iV4G4Dl3TGyrRcP",
+        "type": "ellipse",
+        "x": -423.2440474107017,
+        "y": 43.269755175403645,
+        "width": 118.57357694820666,
+        "height": 108.94031337351828,
+        "angle": 0,
+        "strokeColor": "#e03131",
+        "backgroundColor": "transparent",
+        "fillStyle": "solid",
+        "strokeWidth": 2,
+        "strokeStyle": "solid",
+        "roughness": 1,
+        "opacity": 100,
+        "groupIds": [
+            "AZ4_bux7mNJ9lBE_mddwM"
+        ],
+        "frameId": null,
+        "index": "aA",
+        "roundness": {
+            "type": 2
+        },
+        "seed": 545457986,
+        "version": 46,
+        "versionNonce": 64462878,
+        "isDeleted": false,
+        "boundElements": null,
+        "updated": 1758242342007,
+        "link": null,
+        "locked": false
+    }
+]
