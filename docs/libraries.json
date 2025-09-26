@@ -1,15 +1,6 @@
-[
-  {
-    "libraryId": "aldar-test-prefab",
-    "name": "Test Prefab Library",
-    "authors": "Aldar Muev",
-    "preview": "preview.png",        // optional
-    "total": 0,
-    "week": 0,
-    "updated": "2025-09-25",
-    "description": "A collection of prefab Excalidraw elements hosted on GitHub Pages.",
-    "addToLib": "https://excalidraw.com/#addLibrary=https%3A%2F%2Faldargit.github.io%2Ftest_athena_v2%2Flibrary.excalidrawlib",
-    "source": "https://github.com/AldarGIT/test_athena_v2",
-    "target": "_blank"
-  }
-]
+{
+  "name": "UML Component Diagram",
+  "author": "AldName",
+  "preview": "libraries/AldName/preview.png",
+  "url": "libraries/AldName/uml-component-diagram.excalidrawlib"
+}
